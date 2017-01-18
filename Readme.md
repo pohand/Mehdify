@@ -2,7 +2,7 @@
 
 Mehdicate is a simple test for software engineers.
 
-Difficulty: *Medium*
+Difficulty: **Medium**
 
 ## Scope
 The scope of this test is to assess the candidate's basic knowledge of software engineering principles, their ability to learn, work in a team and follow instructions.
