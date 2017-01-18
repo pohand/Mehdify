@@ -1,6 +1,6 @@
 {
-  "name": "Mehdicate",
-  "description": "Mehdicate",
+  "name": "Mehdify",
+  "description": "Mehdify",
   "author": "Incredible Web",
   "devDependencies": {
     "event-stream": "^3.3.2",

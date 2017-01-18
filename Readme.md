@@ -1,6 +1,6 @@
-# Mehdicate
+# mehdify
 
-Mehdicate is a simple test for software engineers.
+mehdify is a simple test for software engineers.
 
 Difficulty: **Medium**
 
@@ -8,13 +8,13 @@ Difficulty: **Medium**
 The scope of this test is to assess the candidate's basic knowledge of software engineering principles, their ability to learn, work in a team and follow instructions.
 
 ## Problem Definition
-Implement a function `mehdicate(x)` that takes an integer `x` and returns the next biggest integer `y` made up of the same digits. If no bigger number can be found, it should return `x`.
+Implement a function `mehdify(x)` that takes an integer `x` and returns the next biggest integer `y` made up of the same digits. If no bigger number can be found, it should return `x`.
 
 ```
-	mehdicate(419) // should return 491
-	mehdicate(271) // should return 712
-	mehdicate(542) // should return 542
-	mehdicate(32142) // should return 32214
+	mehdify(419) // should return 491
+	mehdify(271) // should return 712
+	mehdify(542) // should return 542
+	mehdify(32142) // should return 32214
 ```
 
 You can assume that `x` is a positive integer.
